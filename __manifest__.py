@@ -3,7 +3,7 @@
     'name': "custom_crm",
 
     'summary': """
-        Esto es una descripcion corta""",
+        Esto descripcion se ira modificando depende si se puede hacer""",
 
     'description': """
         Long description of module's purpose
