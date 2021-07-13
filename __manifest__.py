@@ -3,7 +3,7 @@
     'name': "custom_crm",
 
     'summary': """
-        Esto descripcion se ira modificando depende si se puede hacer""",
+        Esto descripcion se ira modificando depende si se puede hacer con odoo 13""",
 
     'description': """
         Long description of module's purpose
