@@ -6,10 +6,10 @@
         Esto descripcion se ira modificando depende si se puede hacer con odoo 13""",
 
     'description': """
-        Long description of module's purpose
+        dedscripcion larga del proposito de un modelo
     """,
 
-    'author': "My Company",
+    'author': "Williams",
     'website': "http://www.odoo13.com",
 
     # Categories can be used to filter modules in modules listing
