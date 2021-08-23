@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from typing_extensions import Required
 from odoo import models, fields, api
 
 
@@ -17,4 +16,4 @@ class Visit(models.Model):
     customer = fields.Char(string = 'Cliente')
     date = fields.Datetime(string = 'Fecha')
     type = fields.Selection([('P','Presencia'),('W','Whatsapp'),('T','telefonico')], string = 'Tipo', Required = True)
-    done = fields.Boolean(string = 'Realizada', readonly = True)
+    done = fields.Boolean(string = 'Realizada')
