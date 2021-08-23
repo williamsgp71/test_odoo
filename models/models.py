@@ -16,4 +16,4 @@ class Visit(models.Model):
     customer = fields.Char(string = 'Cliente')
     date = fields.Datetime(string = 'Fecha')
     type = fields.Selection([('P','Presencia'),('W','Whatsapp'),('T','telefonico')], string = 'Tipo', Required = True)
-    done = fields.Boolean(string = 'Realizada')
+    done = fields.Boolean(string = 'Realizadaaa')
