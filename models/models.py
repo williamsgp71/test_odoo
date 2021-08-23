@@ -5,7 +5,7 @@ from odoo import models, fields, api
 
 class Visit(models.Model):
     '''
-    Developer Williasm Guerrero 
+    Developer Williasm Guerrero  Plaza
     Se creo este modelo como test
     '''
     
